@@ -1,1 +1,1 @@
-﻿# Códigos do exercício feito em duplas
+﻿# Código do exercício feito em duplas
